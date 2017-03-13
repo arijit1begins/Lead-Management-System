@@ -1,0 +1,12 @@
+<DeployConfig sourcecodepath = "C:\Users\arda\Desktop\finalLogManagement">
+  <Webboxes>
+    <Webbox>
+      <Name>ARDA.fareast.corp.microsoft.com</Name>
+      <Destination>c$\Users\arda\Desktop</Destination>
+    </Webbox>
+    <Webbox>
+      <Name>i02bu2fwebexp04.partners.extranet.microsoft.com</Name>
+      <Destination>c$\Users\arda\Desktop</Destination>
+    </Webbox>
+  </Webboxes>
+</DeployConfig>

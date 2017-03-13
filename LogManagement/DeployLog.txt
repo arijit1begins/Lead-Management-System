@@ -1,0 +1,6 @@
+﻿2/23/2017 3:20:59 PM file: C:\Users\arda\Desktop\u_ex170204.log copied to ARDA.fareast.corp.microsoft.com at location : c$\Users\arda\Desktop\remotecopy\
+ARDA.fareast.corp.microsoft.com: Not online
+3/9/2017 5:41:28 PM Item: C:\Users\arda\Desktop\finalLogManagement copied to ARDA.fareast.corp.microsoft.com at location : c$\Users\arda\Desktop
+3/9/2017 5:43:59 PM Item: C:\Users\arda\Desktop\finalLogManagement copied to ARDA.fareast.corp.microsoft.com at location : c$\Users\arda\Desktop
+3/10/2017 5:09:00 PM Item: C:\Users\arda\Desktop\finalLogManagement copied to ARDA.fareast.corp.microsoft.com at location : c$\Users\arda\Desktop
+3/10/2017 5:09:33 PM Item: C:\Users\arda\Desktop\finalLogManagement copied to i02bu2fwebexp04.partners.extranet.microsoft.com at location : c$\Users\arda\Desktop

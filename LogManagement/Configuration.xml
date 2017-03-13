@@ -1,0 +1,9 @@
+<Config>
+  <LogDirectory>C:\Users\arda\Desktop\Logs</LogDirectory>
+  <ArchiveDirectory type="local">C:\Users\arda\Desktop\archive</ArchiveDirectory>
+  <UnzipDays>15</UnzipDays>
+  <NonArchiveZipDays>60</NonArchiveZipDays>
+  <ArchiveZipDays>180</ArchiveZipDays>
+  <ZipType></ZipType>
+  <ScriptLogFilePath>C:\Users\arda\Desktop\logs_logs.txt</ScriptLogFilePath>
+</Config>
